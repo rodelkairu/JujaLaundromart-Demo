@@ -80,3 +80,10 @@ expo start -c
 # Play Store Deployment
 
 The app is fully optimized and ready for upload to the Play Store. Key configurations such as app.json, assets, and splash screens are already in place.
+![Screenshot From 2025-06-30 20-59-53](https://github.com/user-attachments/assets/6c37f097-fa90-4148-8259-eae29235ea1a)
+![Screenshot From 2025-06-30 20-58-09](https://github.com/user-attachments/assets/95ef3ba8-f4c5-46a5-adfd-774ef4ae65f3)
+![Screenshot From 2025-06-30 20-55-48](https://github.com/user-attachments/assets/31f1999c-d095-4037-867c-d5c83ed716fb)
+![Screenshot From 2025-06-30 20-58-21](https://github.com/user-attachments/assets/95357a83-278b-40b6-bcfe-483a92c07081)
+
+
+
